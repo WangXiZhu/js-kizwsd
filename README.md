@@ -2,7 +2,7 @@
  * @Author: zc
  * @Date: 1985-10-26 16:15:00
  * @LastEditors: zc
- * @LastEditTime: 2022-12-21 14:56:51
+ * @LastEditTime: 2022-12-21 16:16:26
  * @FilePath: /next-app-demo/README.md
 -->
 
@@ -43,10 +43,14 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## 依赖组件
 
-![next-qrcode](https://www.npmjs.com/package/next-qrcode)
+[next-qrcode](https://www.npmjs.com/package/next-qrcode)
 
 ## 部署
 
 -   1、Registry 改为 tx, https://mirrors.cloud.tencent.com/npm/
 -   2、wxcloud deploy
     https://cloud.weixin.qq.com/cli/features/deployment.html
+
+## 在线编辑网站
+
+https://stackblitz.com/

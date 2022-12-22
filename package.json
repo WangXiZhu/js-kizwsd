@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "deploy": "wxcloud deploy"
   },
   "dependencies": {
     "next": "12.3.1",

@@ -2,7 +2,7 @@
  * @Author: zc
  * @Date: 1985-10-26 16:15:00
  * @LastEditors: zc
- * @LastEditTime: 2022-12-21 16:16:26
+ * @LastEditTime: 2022-12-23 11:30:58
  * @FilePath: /next-app-demo/README.md
 -->
 
@@ -54,3 +54,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## 在线编辑网站
 
 https://stackblitz.com/
+
+## 本地配置
+
+git config --local user.name 'WangXiZhu' && git config --local user.email '2368707467@qq.com'
